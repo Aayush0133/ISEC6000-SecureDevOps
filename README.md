@@ -77,15 +77,7 @@ In this **ISEC6000 SecureDevOps** project, I focused on building, deploying, and
      trivy image <your-image>
      ```
 
-## Continuous Monitoring and Logging
 
-1. **Set Up Monitoring:**
-   - I implemented monitoring tools like Prometheus and Grafana.
-   - I configured alerts and dashboards for real-time insights.
-
-2. **Configure Logging:**
-   - I set up centralized logging with tools like ELK Stack or Google Cloud Logging.
-   - I ensured that logs were collected and stored securely.
 
 ## Contribution
 
